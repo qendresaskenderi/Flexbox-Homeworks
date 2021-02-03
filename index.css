@@ -58,10 +58,17 @@ h2 {
 
 .large {
 	border: 5px dashed #51446e;
+	/*     detyra 1
 	justify-content: flex-end;
 	flex-wrap: wrap-reverse;
-	align-content: flex-start;
+	align-content: flex-start;*/
+
+	/*--detyra 2--*/
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-content: space-between;
 	min-height: 40%;
+	
 }
 
 .long {
